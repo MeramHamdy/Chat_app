@@ -36,12 +36,12 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 Image.asset(
                   "assets/logo.png",
-                  height: 140,
+                  height: 130,
                 ),
                 Center(
                   child: Text(
-                    "Scholar Chat",
-                    style: TextStyle(fontSize: 32, color: primary2),
+                    "Chat App",
+                    style: TextStyle(fontSize: 30, color: primary2),
                   ),
                 ),
                 const SizedBox(

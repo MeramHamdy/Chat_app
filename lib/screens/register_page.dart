@@ -46,7 +46,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 ),
                 Center(
                   child: Text(
-                    "Scholar Chat",
+                    "Chat App",
                     style: TextStyle(fontSize: 32, color: primary2),
                   ),
                 ),
